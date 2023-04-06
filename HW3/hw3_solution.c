@@ -15,7 +15,7 @@ int main(void) {
             
             for (int i = 0; i < 100; i++){
                 
-                sprintf(buf, "%f\r\n", sin(2*3.1415*i/100));
+                sprintf(buf, "%f\r\n", 3.3 / 2 * (sin(2*3.1415*i/100) + 1));
                 
                 NU32DIP_WriteUART1(buf);
                 
