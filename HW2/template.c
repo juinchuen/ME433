@@ -34,7 +34,7 @@ int main(void) {
     NU32DIP_WriteUART1("Blinking LEDs\r\n\n"); // carriage return and newline
     
 	if (NU32DIP_USER){
-		blink(blinks, duration); // 5 times, 500ms each time
+		blink(blinks, duration);
 	}
   }
 }

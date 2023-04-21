@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pic32_footprint")(type "KiCad")(uri "C:/Users/ohjui/Desktop/northwestern tings/Spring 2023/ME433/HW4/pic32_footprint.pretty")(options "")(descr ""))
+)

@@ -64,7 +64,7 @@
         <makeUseCleanTarget>false</makeUseCleanTarget>
         <makeCustomizationPreStep></makeCustomizationPreStep>
         <makeCustomizationPostStepEnabled>true</makeCustomizationPostStepEnabled>
-        <makeCustomizationPostStep>"C:\Users\ohjui\Desktop\northwestern tings\Spring 2023\ME433_2023\template\bootloader\nu32utility.exe" COM3 ${ImagePath}</makeCustomizationPostStep>
+        <makeCustomizationPostStep>"C:\Users\ohjui\Desktop\northwestern tings\Spring 2023\ME433_2023\template\bootloader\nu32utility.exe" COM6 ${ImagePath}</makeCustomizationPostStep>
         <makeCustomizationPutChecksumInUserID>false</makeCustomizationPutChecksumInUserID>
         <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
         <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
